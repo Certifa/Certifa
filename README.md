@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/d2/e1/da/d2e1da70c72592443bd9c3728f35b47e.gif)]
+[![MasterHead](https://i.pinimg.com/originals/d2/e1/da/d2e1da70c72592443bd9c3728f35b47e.gif)]()
 <h1 align="center">Hi 👋, I'm Certifa</h1>
 <h3 align="center">A passionate developer trying to get better!</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47t70wqlks908v71ipi45727kfdq1vr1y03wn9bu7w&rid=giphy.gif&ct=g")
