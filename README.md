@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/certifa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="certifa1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/certifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="certifa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mikebliek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mikebliek" height="30" width="40" /></a>
 <a href="https://discord.gg/Quetro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quetro" height="30" width="40" /></a>
 </p>
 
