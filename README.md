@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=certifa&label=Profile%20views&color=0e75b6&style=flat" alt="certifa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/certifa1" target="blank"><img src="https://img.shields.io/twitter/follow/certifa1?logo=twitter&style=for-the-badge" alt="certifa1" /></a> </p>
 
 - 🔭 I’m currently working on **Cyber Security | Programming**
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/certifa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="certifa1" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/certifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="certifa" height="30" width="40" /></a>
 <a href="https://discord.gg/Quetro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quetro" height="30" width="40" /></a>
 </p>
