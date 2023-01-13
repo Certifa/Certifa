@@ -12,13 +12,13 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **Certifa@outlook.com**
+- 📫 How to reach me **click the discord button!**
 
 - ⚡ What do I like **Philosophy | Theology | Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://www.codechef.com/users/certifa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="certifa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/certifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="certifa" height="30" width="40" /></a>
 <a href="https://discord.gg/Quetro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quetro" height="30" width="40" /></a>
 </p>
