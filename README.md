@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **click the discord button!**
+- 📫 How to reach me? **click on the discord button!**
 
 - ⚡ What do I like **Philosophy | Theology | Programming**
 
