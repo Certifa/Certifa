@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cyber Security | Programming**
 
-- 🌱 I’m currently learning **Python | C | Javascript | Ethical Hacking**
+- 🌱 I’m currently learning **Python | C | OSINT | Ethical Hacking**
 
 - 💬 Ask me about **anything!**
 
