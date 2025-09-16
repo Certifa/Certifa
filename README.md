@@ -9,8 +9,11 @@ Certifa | Student Cybersecurity & Cloud | Red Teamer in training
 └─$ cat about_me.txt
 
 🎓 HBO-ICT (Cybersecurity & Cloud)
+
 🔒 Focused on Ethical Hacking, Red Teaming & Bug Bounties
+
 ⚡ Learning Python, Linux, Networking, and Exploit Development
+
 📚 Philosophy & literature and active CTF player
 
 ┌──(certifa㉿github)-[~]
