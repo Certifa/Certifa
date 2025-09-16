@@ -41,14 +41,9 @@ PNPT
 
 HackTheBox: https://app.hackthebox.com/profile/444744
 
-```
-
----
 
 ## 📊 GitHub Stats (Dark Theme)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Certifa&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Certifa&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Certifa&layout=compact&theme=tokyonight&hide_border=true)
 
----
-```
