@@ -1,9 +1,11 @@
 ┌──(certifa㉿github)-[~]
+
 └─$ whoami
 
 Certifa | Student Cybersecurity & Cloud | Red Teamer in training
 
 ┌──(certifa㉿github)-[~]
+
 └─$ cat about_me.txt
 
 🎓 HBO-ICT (Cybersecurity & Cloud)
@@ -12,17 +14,20 @@ Certifa | Student Cybersecurity & Cloud | Red Teamer in training
 📚 Philosophy & literature and active CTF player
 
 ┌──(certifa㉿github)-[~]
+
 └─$ ls skills/
 
 Programming - Enumeration - Privesc
 
 ┌──(certifa㉿github)-[~]
+
 └─$ cat projects.txt
 
 -- CLI project
 HTB Writeups (coming soon...) -- CTF notes & solutions
 
 ┌──(certifa㉿github)-[~]
+
 └─$ cat learning_path.txt
 
 eJPTv2 (📍 in progress)
@@ -31,6 +36,7 @@ CCNA
 PNPT
 
 ┌──(certifa㉿github)-[~]
+
 └─$ ./connect.sh
 
 HackTheBox: https://app.hackthebox.com/profile/444744
