@@ -2,7 +2,7 @@
 
 └─$ whoami
 
-Certifa 
+Certifa | Student at Hogeschool Utrecht -> Cybersecurity & Cloud
 
 ┌──(certifa㉿github)-[~]
 
