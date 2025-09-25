@@ -2,13 +2,11 @@
 
 └─$ whoami
 
-Certifa | Student Cybersecurity & Cloud | Red Teamer in training
+Certifa 
 
 ┌──(certifa㉿github)-[~]
 
 └─$ cat about_me.txt
-
-🎓 HBO-ICT (Cybersecurity & Cloud)
 
 🔒 Focused on Ethical Hacking, Red Teaming & Bug Bounties
 
