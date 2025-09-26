@@ -13,7 +13,7 @@ I focus on **offensive security, red teaming, and bug bounties**, while building
 ## 🛠️ Skills (concise)
 - Python & Bash scripting  
 - Linux administration & networking fundamentals  
-- Offensive basics: reconnaissance, enumeration, exploitation labs (HTB, THM, OverTheWire)  
+- Offensive basics: reconnaissance, enumeration, privilege escalation, and exploitation labs (HTB, THM, OverTheWire)  
 
 ---
 
@@ -43,7 +43,13 @@ I focus on **offensive security, red teaming, and bug bounties**, while building
 
 ## 📫 Contact
 - [HackTheBox Profile](https://app.hackthebox.com/profile/444744)  
-- LinkedIn: *add your LinkedIn link here*  
-- Email: *add your email here*  
+- Discord: quetro
 
 Open for collaboration, knowledge sharing, and practical security projects.  
+
+---
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Certifa&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Certifa&show_icons=true&theme=radical)
+
