@@ -51,5 +51,3 @@ Open for collaboration, knowledge sharing, and practical security projects.
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Certifa&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Certifa&show_icons=true&theme=radical)
-
