@@ -1,49 +1,49 @@
-┌──(certifa㉿github)-[~]
+# 👋 Hi, I’m Mike (aka Certifa)
 
-└─$ whoami
+**Cybersecurity & Cloud student | Aspiring Red Teamer**
 
-Certifa | Student at Hogeschool Utrecht -> Cybersecurity & Cloud
+---
 
-┌──(certifa㉿github)-[~]
+## 🔎 Quick Summary
+Currently studying **HBO-ICT Cybersecurity & Cloud** at Hogeschool Utrecht.  
+I focus on **offensive security, red teaming, and bug bounties**, while building strong foundations in Python, Linux, and networking.
 
-└─$ cat about_me.txt
+---
 
-🔒 Focused on Ethical Hacking, Red Teaming & Bug Bounties
+## 🛠️ Skills (concise)
+- Python & Bash scripting  
+- Linux administration & networking fundamentals  
+- Offensive basics: reconnaissance, enumeration, exploitation labs (HTB, THM, OverTheWire)  
 
-⚡ Learning Python, Linux, Networking, and Exploit Development
+---
 
-📚 Philosophy & literature and active CTF player
+## 🎖️ Tool Badges
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![nmap](https://img.shields.io/badge/-nmap-004B87?logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
 
-┌──(certifa㉿github)-[~]
+*(I keep this short — proof of skills is shown in projects & writeups.)*
 
-└─$ ls skills/
+---
 
-Programming - Enumeration - Privesc
+## 📂 Projects & Evidence
+- **CTF Writeups** → HackTheBox, TryHackMe, OverTheWire (Bandit, picoCTF). Focused on methodology & lessons learned.  
+- **Automation Scripts** → small Python tools (e.g., recon wrappers, JSON parsers).  
+- **Notes & Cheatsheets** → organized study notes on networking, Linux privilege escalation, and exploit basics.  
 
-┌──(certifa㉿github)-[~]
+---
 
-└─$ cat projects.txt
+## 🎯 Roadmap
+- **In progress:** eJPTv2  
+- **Planned:** CompTIA Security+, CCNA, PNPT  
+- Goal: Build a reproducible vulnerable lab with a full multi-part writeup.  
 
--- CLI project
-HTB Writeups (coming soon...) -- CTF notes & solutions
+---
 
-┌──(certifa㉿github)-[~]
+## 📫 Contact
+- [HackTheBox Profile](https://app.hackthebox.com/profile/444744)  
+- LinkedIn: *add your LinkedIn link here*  
+- Email: *add your email here*  
 
-└─$ cat learning_path.txt
-
-eJPTv2 (📍 in progress)
-Security+
-CCNA
-PNPT
-
-┌──(certifa㉿github)-[~]
-
-└─$ ./connect.sh
-
-HackTheBox: https://app.hackthebox.com/profile/444744
-
-
-## 📊 GitHub Stats (Dark Theme)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Certifa&layout=compact&theme=tokyonight&hide_border=true)
-
+Open for collaboration, knowledge sharing, and practical security projects.  
