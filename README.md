@@ -26,24 +26,16 @@ Nmap · Wireshark · Burp Suite · BloodHound · Impacket · Evil‑WinRM Etc.
 | **osint-tools** | Small scripts for scraping & aggregating public data for OSINT exercises. |
 | **bit-academy** | (If relevant) coursework / learning projects — security-focused mini projects. |
 
----
-
-## 📂 Repo layout (suggested)
-- `/ctf-writeups` — challenge + solution + learnings  
-- `/tools/enum` — enumeration helpers (README + use cases)  
-- `/labs` — exported lab notes & screenshots  
-- `/osint` — scripts, README with usage & ethical disclaimer
 
 ---
 
 ## 📈 Activity & contributions
-I’m iterating weekly on small repos (scripts, writeups). Check `ctf-writeups` and `windows-enum-scripts` for my most recent work.
+I’m iterating weekly on small repos (scripts, writeups). I am working on `ctf-writeups` and `windows-enum-scripts`, I will be publishing those soon.
 
 ---
 
 ## 📫 Connect
-- LinkedIn: linkedin.com/in/your-linkedin  
-- Email: your.email@example.com  
+- Discord: Quetro
 - GitHub: github.com/Certifa
 
 ---
