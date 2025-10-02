@@ -1,53 +1,51 @@
-# 👋 Hi, I’m Mike (aka Certifa)
+# 👋 Hi, I'm Certifa
 
-**Cybersecurity & Cloud student | Aspiring Red Teamer**
-
----
-
-## 🔎 Quick Summary
-Currently studying **HBO-ICT Cybersecurity & Cloud** at Hogeschool Utrecht.  
-I focus on **offensive security, red teaming, and bug bounties**, while building strong foundations in Python, Linux, and networking.
+**Aspiring cybersecurity practitioner** — focused on **Ethical Hacking · OSINT · Network Security**.  
+Starting HBO Cybersecurity & Cloud @ Hogeschool Utrecht (sep 2025). Active in CTFs, HTB labs and hands‑on scripting.
 
 ---
 
-## 🛠️ Skills (concise)
-- Python & Bash scripting  
-- Linux administration & networking fundamentals  
-- Offensive basics: reconnaissance, enumeration, privilege escalation, and exploitation labs (HTB, THM, OverTheWire)  
+## 🔭 Current focus
+- Offensive fundamentals: enumeration, Win/AD basics, exploitation workflows  
+- OSINT automation & data collection pipelines  
+- Building small, reusable tools for CTFs and lab automation
 
 ---
 
-## 🎖️ Tool Badges
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![nmap](https://img.shields.io/badge/-nmap-004B87?logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
-
-*(I keep this short — proof of skills is shown in projects & writeups.)*
+## 🛠 Tech stack & tools
+Python · Bash · PowerShell · C  
+Nmap · Wireshark · Burp Suite · BloodHound · Impacket · Evil‑WinRM Etc.
 
 ---
 
-## 📂 Projects & Evidence
-- **CTF Writeups** → HackTheBox, TryHackMe, OverTheWire (Bandit, picoCTF). Focused on methodology & lessons learned.  
-- **Automation Scripts** → small Python tools (e.g., recon wrappers, JSON parsers).  
-- **Notes & Cheatsheets** → organized study notes on networking, Linux privilege escalation, and exploit basics.  
+## ⭐ Featured projects
+| Project | Short description |
+|---|---|
+| **ctf-writeups** | Clear writeups & walkthroughs of CTF challenges (reproducible steps + commands). |
+| **windows-enum-scripts** | PowerShell/Python scripts for fast Windows/AD enumeration (winPEAS-like helpers). |
+| **osint-tools** | Small scripts for scraping & aggregating public data for OSINT exercises. |
+| **bit-academy** | (If relevant) coursework / learning projects — security-focused mini projects. |
 
 ---
 
-## 🎯 Roadmap
-- **In progress:** eJPTv2  
-- **Planned:** CompTIA Security+, CCNA, PNPT  
-- Goal: Build a reproducible vulnerable lab with a full multi-part writeup.  
+## 📂 Repo layout (suggested)
+- `/ctf-writeups` — challenge + solution + learnings  
+- `/tools/enum` — enumeration helpers (README + use cases)  
+- `/labs` — exported lab notes & screenshots  
+- `/osint` — scripts, README with usage & ethical disclaimer
 
 ---
 
-## 📫 Contact
-- [HackTheBox Profile](https://app.hackthebox.com/profile/444744)  
-- Discord: quetro
-
-Open for collaboration, knowledge sharing, and practical security projects.  
+## 📈 Activity & contributions
+I’m iterating weekly on small repos (scripts, writeups). Check `ctf-writeups` and `windows-enum-scripts` for my most recent work.
 
 ---
-## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Certifa&layout=compact&theme=radical)
+## 📫 Connect
+- LinkedIn: linkedin.com/in/your-linkedin  
+- Email: your.email@example.com  
+- GitHub: github.com/Certifa
+
+---
+
+> ⚠️ All tooling & examples are for learning and authorized lab use only. I do **not** use these techniques against systems I don’t own or have explicit permission to test.
