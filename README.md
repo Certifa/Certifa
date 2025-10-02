@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Certifa
 
 **Aspiring cybersecurity practitioner** — focused on **Ethical Hacking · OSINT · Network Security**.  
-Starting HBO Cybersecurity & Cloud @ Hogeschool Utrecht (sep 2025). Active in CTFs, HTB labs and hands‑on scripting.
+HBO Cybersecurity & Cloud @ Hogeschool Utrecht. Active in CTFs, HTB labs and hands‑on scripting.
 
 ---
 
