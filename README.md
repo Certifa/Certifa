@@ -6,8 +6,8 @@ HBO Cybersecurity & Cloud @ Hogeschool Utrecht. Active in CTFs, HTB labs and han
 ---
 
 ## 🔭 Current focus
-- Offensive fundamentals: enumeration, Win/AD basics, exploitation workflows  
-- OSINT automation & data collection pipelines  
+- Offensive fundamentals: enumeration, Win/AD, Privilege Escalation, Exploitation. 
+- OSINT workflows and scripting
 - Building small, reusable tools for CTFs and lab automation
 
 ---
@@ -18,19 +18,20 @@ Nmap · Wireshark · Burp Suite · BloodHound · Impacket · Evil‑WinRM Etc.
 
 ---
 
-## ⭐ Featured projects
-| Project | Short description |
-|---|---|
-| **ctf-writeups** | Clear writeups & walkthroughs of CTF challenges (reproducible steps + commands). |
-| **windows-enum-scripts** | PowerShell/Python scripts for fast Windows/AD enumeration (winPEAS-like helpers). |
-| **osint-tools** | Small scripts for scraping & aggregating public data for OSINT exercises. |
-| **bit-academy** | (If relevant) coursework / learning projects — security-focused mini projects. |
+## 📌 Repositories (uitgelicht)
+| Repo | Beschrijving |
+|------|--------------|
+| **nmapfullscan** | Bash-script for structured Nmap enum (I Personally use this). |
+| **Htb-writeups** *(soon)* | My walkthroughs and notes from HTB/THM challenges with commands and explonation. |
+| **osint-playground** *(Work in progress)* | Little scripts for collecting and parsing source data. |
 
 
 ---
 
-## 📈 Activity & contributions
-I’m iterating weekly on small repos (scripts, writeups). I am working on `ctf-writeups` and `windows-enum-scripts`, I will be publishing those soon.
+## 📈 Work in progress
+- Publishing my `Htb-writeups` and automate more with `scripts` like /nmapfullscan.
+- Putting more focus on AD/Windows.
+  
 
 ---
 
