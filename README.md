@@ -22,7 +22,7 @@ Nmap · Wireshark · Burp Suite · BloodHound · Impacket · Evil-WinRM · etc.
 | Repo | Description |
 |------|-------------|
 | **nmapfullscan** | Bash script for structured Nmap enumeration — used in personal CTF/lab workflows |
-| **htb-writeups** *(coming soon)* | Clear walkthroughs of HTB/THM challenges with command explanations and techniques |
+| **htb-writeups** | Clear walkthroughs of HTB/THM challenges with command explanations and techniques |
 | **osint-playground** *(WIP)* | Lightweight tools for collecting and parsing open source data |
 
 ---
