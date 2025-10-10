@@ -23,7 +23,7 @@ Nmap · Wireshark · Burp Suite · BloodHound · Impacket · Evil-WinRM · etc.
 |------|-------------|
 | **nmapfullscan** | Bash script for structured Nmap enumeration — used in personal CTF/lab workflows |
 | **htb-writeups** | Clear walkthroughs of HTB/THM challenges with command explanations and techniques |
-| ** ShellForge** | Lightweight tool that generates a shell based on your <ip> <port> input. |
+| **ShellForge** | Lightweight tool that generates a shell based on your <ip> <port> input. |
 
 ---
 
