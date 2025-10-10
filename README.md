@@ -34,6 +34,7 @@ Nmap · Wireshark · Burp Suite · BloodHound · Impacket · Evil-WinRM · etc.
 ---
 
 ## 📫 Connect
+- HackTheBox: [Certifa](https://app.hackthebox.com/profile/444744)
 - Discord: `Quetro`
 - GitHub: [github.com/Certifa](https://github.com/Certifa)
 
