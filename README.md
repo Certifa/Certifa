@@ -2,7 +2,7 @@
 
 Cybersecurity & Cloud BSc at Hogeschool Utrecht. Offensive security on my own time.
 
-Writeups and projects: **[certifa.net](https://certifa.net)** · [![HackTheBox](https://img.shields.io/badge/HackTheBox-0b0a0d?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019c2f48-7b5d-73a8-b798-3ee811960672) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0a0d?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mike-bliek-3b319a161/)
+Writeups and projects: **[certifa.net](https://certifa.net)** · [![HackTheBox](https://img.shields.io/badge/HackTheBox-0b0a0d?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019c2f48-7b5d-73a8-b798-3ee811960672) · [LinkedIn](https://www.linkedin.com/in/mike-bliek-3b319a161)
 
 ---
 
