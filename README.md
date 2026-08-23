@@ -1,6 +1,10 @@
+[![Certifa](https://certifa.net/og/banner.png)](https://certifa.net)
+
 Cybersecurity & Cloud BSc at Hogeschool Utrecht. Offensive security on my own time.
 
 Writeups and projects: **[certifa.net](https://certifa.net)** · [HackTheBox](https://profile.hackthebox.com/profile/019c2f48-7b5d-73a8-b798-3ee811960672)
+
+---
 
 ### Tools
 
@@ -15,5 +19,7 @@ Writeups and projects: **[certifa.net](https://certifa.net)** · [HackTheBox](ht
 **[Aegis](https://github.com/Certifa/Aegis)** · Policy and provenance gateway between an AI agent and its tools. Every action is checked against deterministic policy before it runs, and every attempt is written to a signed, hash-chained log.
 
 **[Netgrade](https://github.com/maansjayden/netgrade)** · Passive security scan of a domain, scored and explained in plain language.
+
+---
 
 For authorized lab and educational use only.
