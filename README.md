@@ -2,7 +2,7 @@
 
 Cybersecurity & Cloud BSc at Hogeschool Utrecht. Offensive security on my own time.
 
-Writeups and projects: **[certifa.net](https://certifa.net)** · [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=000)](https://profile.hackthebox.com/profile/019c2f48-7b5d-73a8-b798-3ee811960672)
+Writeups and projects: **[certifa.net](https://certifa.net)** · [![HackTheBox](https://img.shields.io/badge/HackTheBox-0b0a0d?style=flat-square&logo=hackthebox&logoColor=e8e6e2)](https://profile.hackthebox.com/profile/019c2f48-7b5d-73a8-b798-3ee811960672)
 
 ---
 
