@@ -12,8 +12,8 @@ Writeups and projects: **[certifa.net](https://certifa.net)** · [HackTheBox](ht
 
 ### Hackathons
 
-**[Aegis](https://github.com/Certifa/Aegis)** · Policy and provenance gateway between an AI agent and its tools. Every action is checked against deterministic policy before it runs, and every attempt is written to a signed, hash-chained log. With [@maansjayden](https://github.com/maansjayden).
+**[Aegis](https://github.com/Certifa/Aegis)** · Policy and provenance gateway between an AI agent and its tools. Every action is checked against deterministic policy before it runs, and every attempt is written to a signed, hash-chained log.
 
-**[Netgrade](https://github.com/maansjayden/netgrade)** · Passive security scan of a domain, scored and explained in plain language. With [@maansjayden](https://github.com/maansjayden).
+**[Netgrade](https://github.com/maansjayden/netgrade)** · Passive security scan of a domain, scored and explained in plain language.
 
 For authorized lab and educational use only.
