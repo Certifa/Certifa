@@ -1,23 +1,19 @@
-# Hey, I'm Mike 👋
+Cybersecurity & Cloud BSc at Hogeschool Utrecht. Offensive security on my own time.
 
-Cybersecurity & Cloud student at **Hogeschool Utrecht**, focused on offensive security. I build pentest tools, solve HTB machines, and document everything I learn along the way.
+Writeups and projects: **[certifa.net](https://certifa.net)** · [HackTheBox](https://profile.hackthebox.com/profile/019c2f48-7b5d-73a8-b798-3ee811960672)
 
----
+### Tools
 
-### Projects
+**[nmapfullscan](https://github.com/Certifa/nmapfullscan)** · Sweeps every TCP port, parses what actually answered, runs service detection on only those. Written because I kept mis-copying port lists between two commands.
 
-| Project | Description |
-|---|---|
-| [**nmapfullscan**](https://github.com/Certifa/nmapfullscan) | Python Nmap helper — quick sweep, detailed ports, UDP scanning, auto-save |
-| [**ShellForge**](https://github.com/Certifa/ShellForge) | Reverse shell generator — multiple languages, custom IP/port, CTF-ready |
-| [**htb-writeups**](https://github.com/Certifa/htb-writeups) | HackTheBox walkthroughs with methodology breakdowns |
-| [**htb-tracker**](https://github.com/Certifa/htb-tracker) | Structured pentest methodology tracker with built-in notes |
+**[ShellForge](https://github.com/Certifa/ShellForge)** · Reverse shell payloads for a given IP and port. Offline, so there is nothing to search through mid-box.
 
----
+**[htb-tracker](https://github.com/Certifa/htb-tracker)** · A checklist that keeps the methodology in order and attaches notes to each step. I move faster than I document.
 
-<p>
-  <a href="https://app.hackthebox.com/profile/444744"><img src="https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00" /></a>
-  <a href="https://discordapp.com/users/Quetro"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-</p>
+### Hackathons
 
-<sub>All tools and write-ups are for authorized lab and educational use only.</sub>
+**[Aegis](https://github.com/Certifa/Aegis)** · Policy and provenance gateway between an AI agent and its tools. Every action is checked against deterministic policy before it runs, and every attempt is written to a signed, hash-chained log. With [@maansjayden](https://github.com/maansjayden).
+
+**[Netgrade](https://github.com/maansjayden/netgrade)** · Passive security scan of a domain, scored and explained in plain language. With [@maansjayden](https://github.com/maansjayden).
+
+For authorized lab and educational use only.
